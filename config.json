@@ -1,0 +1,4 @@
+{
+  "elasticSearch" : "http://localhost:9200/",
+  "apiPort" : "8080"
+}
