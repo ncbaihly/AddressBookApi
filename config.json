@@ -1,4 +1,6 @@
 {
-  "elasticSearch" : "http://localhost:9200/",
-  "apiPort" : "8080"
+  "elasticSearchHost" : "localhost:9200",
+  "apiHost": "localhost",
+  "apiPort" : "8080",
+  "indexName": "contacts"
 }
